@@ -1,3 +1,3 @@
-module github.com/jpanther/congo/v2
+module github.com/fe-warden/fe-congo
 
 go 1.16
